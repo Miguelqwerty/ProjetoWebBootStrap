@@ -1,0 +1,32 @@
+.logotipo{
+
+width: 70px;
+height: 70px;
+
+}
+
+#social{
+	text-align: center;
+	background-color: darkgrey;
+	
+	padding: 100px 0;
+}
+
+.titulo-section{
+
+	font-size: 32pt;
+	font-weight: bold;
+}
+
+#social a{
+color: black;
+font-size: 18pt;
+padding-right: 20px;
+
+}
+
+#social a :hover{
+	color: grey;
+transition: 1s;
+
+}
