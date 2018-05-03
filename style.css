@@ -5,12 +5,34 @@ height: 70px;
 
 }
 
-#social{
-	text-align: center;
-	background-color: darkgrey;
-	
-	padding: 100px 0;
+
+
+#videodescricao{
+
+
+
+width: 800;
+height: 600;
+
+padding: 100px;
+
 }
+
+.col-5{
+
+ text-align: justify;
+
+}
+
+
+#sapatos{
+
+padding: 50px;
+
+
+
+}
+
 
 .titulo-section{
 
@@ -18,19 +40,21 @@ height: 70px;
 	font-weight: bold;
 }
 
-#social a{
-color: black;
-font-size: 18pt;
-padding-right: 20px;
 
-}
-
-#social a :hover{
-	color: grey;
-transition: 1s;
-
-}
 
 #institucional{
 	text-align: center;
+}
+
+#mapa{
+
+	width: 100px;
+	height: 100px;
+
+}
+	
+
+#formulario{
+
+	padding: 100px;
 }
